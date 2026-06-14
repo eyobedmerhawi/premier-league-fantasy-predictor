@@ -75,7 +75,7 @@ pythonproject_player(
 
 1. Clone the repo
 
-bashgit clone https://github.com/YOUR_USERNAME/premier-league-fantasy-predictor
+bashgit clone https://github.com/eyobederhawi/premier-league-fantasy-predictor
 cd premier-league-fantasy-predictor
 
 2. Install dependencies
